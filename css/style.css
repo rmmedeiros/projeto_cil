@@ -1,0 +1,50 @@
+.imagem-slider {
+    /* altura da img do slider */
+    height: 450px;
+    /* ajusta proporcionamente ao elemento pai */
+    object-fit: cover;
+    object-position: 0 45%;
+}
+.logo {
+    width: 200px;
+    height: 90px;
+}
+
+
+.fonte-especial{
+    font-family: 'Pacifico', cursive;
+}
+
+
+.cor-especial {
+    color: black;
+}
+
+.botao-cor-especial{
+    background-color: darkgray;
+    color: white;
+}
+
+.borda-cor-especial{
+    border-color: darkgray;
+}
+
+.card{
+    max-width: 18rem;
+}
+
+.card-posicao-imagem{
+    /* ajusta proporcinal ao elemento pai */
+    object-fit: cover;
+    height: 300px;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: white;
+    color: black;
+}
